@@ -1,0 +1,11 @@
+div{
+    text-align: center;
+background-color:darkred;
+color: #fff;
+}
+p{margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;}
+    #finalização{margin: 0px;}
+nav:hover{background-color: green;}
+link:visited{background-color: blue;}
+h1:hover{ background-color: crimson;}
